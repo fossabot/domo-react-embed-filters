@@ -3,6 +3,8 @@
 </div>
 
 # React - Private Embed with Programmatic Filtering + Edit Experience Example Code
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Fdomo-react-embed-filters.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Fdomo-react-embed-filters?ref=badge_shield)
+
 
 _\*\*\*\*Please note that this code is for demonstration purposes only and should not be used in a production environment._
 
@@ -65,3 +67,7 @@ _\*\*\*\*Please note that this code is for demonstration purposes only and shoul
 - If you ahve whitelisting set up in your Domo instance, you will need to whitelist the domain that you are using to
   run this application. They can be found at the following locations: https://{your_instance}.domo.com/admin/security/privateEmbedDomains & https://{your_instance}.domo.com/admin/domo-everywhere/settings
 - If you want to change the favicon, you can replace the favicon.ico in the public folder.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Fdomo-react-embed-filters.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Fdomo-react-embed-filters?ref=badge_large)
